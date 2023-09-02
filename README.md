@@ -25,4 +25,5 @@ dalje svoj put. Igrica ima i teži i lakši režim igranja. Za projekat su kori�
 ## :memo: Zaključak:
 Izvršena je detaljna analiza projekta KrabbyPattySecret formula i uočeni su oni dobri delovi, kao i delovi koji se mogu poboljšati i unaprediti. Projekat je dosta dosledno napisan u stilu, ali  su moguća unapređenja stila pisanja koda, u skladu sa novim standardima koje donose nove verzije C++-a. Curenje memorije je otkriveno na nekoliko mesta i tu je i rezrešeno. Postoje napisani neki testovi, pa je utvrđen stepen pokrivenosti koda testovima, gde je zaključeno da bi bilo dobro da se poveća procenat pokrivenosti. Takođe, utvrđena je pokrivenost koda i za ceo projekat, gde su dobijeni zadovoljavajuči procenti. Osim navedenog, projekat se ponaša onako kako je i očekivano.
 
-##  Autor : Tamara Stojković
+##  Autor :
+<b>Tamara Stojković, 1091/2022</b>
